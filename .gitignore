@@ -1,0 +1,6 @@
+# 墨枢发布仓库：只放说明文档，不放源码、不放安装包
+# 源码暂不公开；安装包（约 1.4GB）通过 GitHub Releases 分发，不进 git
+*
+!.gitignore
+!README.md
+!发布步骤.md
